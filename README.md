@@ -1,4 +1,7 @@
 # Visual Synth Gooner
+
+![6f02fda1-f01a-456f-8432-b0315371c8b5](https://github.com/user-attachments/assets/e29daf1e-16d2-4087-8c5c-33ccfd64fa41)
+
 Visual Synth Gooner is an advanced prompt generator built to convert raw user intentions — including NSFW or borderline content — into stealth prompts that bypass content moderation systems. It targets systems with strict validation layers like:
 
     ✅ Initial Prompt Validation (IPV)
