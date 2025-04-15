@@ -1,5 +1,5 @@
 # Visual Synth Gooner
-Visual Synth Architect is an advanced prompt generator built to convert raw user intentions — including NSFW or borderline content — into stealth prompts that bypass content moderation systems. It targets systems with strict validation layers like:
+Visual Synth Gooner is an advanced prompt generator built to convert raw user intentions — including NSFW or borderline content — into stealth prompts that bypass content moderation systems. It targets systems with strict validation layers like:
 
     ✅ Initial Prompt Validation (IPV)
 
