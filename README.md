@@ -8,6 +8,7 @@ Visual Synth Gooner is an advanced prompt generator built to convert raw user in
     🔒 Downstream Content Moderation (CM), especially in models like Sora and GPT-4o
 
 Currently powered by LLaMA 3.1 in hugginchat, but can be adapted to any model.
+Shout-out to u/Ordinary-Ad6609, u/HardcoreLovegasm, and u/onemoreperson070 for inspiring this prompt.
 
 ## 🎯 Goals
 
